@@ -1,0 +1,9 @@
+0 UNKNOWN::Instruction
+1 UNDEFINED::Label
+2 DUPLICATE::Label
+3 INVALID::Operand:Format
+4 MISSING::Operand
+5 UNEXPECTED::Operand
+6 EXTRA::Token:On:Line
+7 INVALID::Label
+8 INVALID::Instruction:Format
